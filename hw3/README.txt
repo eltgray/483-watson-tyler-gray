@@ -1,4 +1,5 @@
 README:
+(Note, the upper directory is named hw3, but this is just a issue i had with github. It is in fact the watson project)
 
 THIS PROGRAM WILL NOT RUN WITHOUT THE INDEX.
 downlaad the index here: https://drive.google.com/open?id=1QYi1G0_OxAFALFwYJQtvGQy-erFIuY_s
